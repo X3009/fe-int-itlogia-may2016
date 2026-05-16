@@ -1,3 +1,5 @@
+// Переменные, нужные для работы функционала
+
 // элементы формы расчета
 const fromInput = document.getElementById("from");
 const toInput = document.getElementById("to");
